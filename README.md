@@ -1,2 +1,2 @@
 # Quera-Answers
-gathered all my answers to quera questions in a github repo, no magic.
+gathered all my answers to Quera.org questions in a Github repo, no magic.
